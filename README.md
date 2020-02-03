@@ -14,6 +14,9 @@ Dash apps are rendered in the web browser. You can deploy your apps to servers a
 
 ## Run the code
 To render the yield curve yourself, download the code and data file, run the code and render it on http://127.0.0.1:8000/
+The chart should look like this:
+
+![Yield curve as an economic indicator](https://github.com/sampadasathe/Yield-curve-as-an-indicator-of-economic-growth-using-Dash-Python/blob/master/yield%20curve.png)
 
 ## Resources:
 1. https://dash.plot.ly/
